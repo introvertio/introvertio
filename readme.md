@@ -18,4 +18,4 @@ I deploy through ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=verce
 
 `Reach out!`
 
-[My portfolio](https://d0y.in) · [My Twitter](https://x.com/byoyindamola) · [Mail Me](mailto:oyindosumu4@gmail.com)
+[View my works](https://d0y.in) · [Send a DM](https://x.com/byoyindamola) · [Send an email](mailto:oyindosumu4@gmail.com)
