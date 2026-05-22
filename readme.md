@@ -1,3 +1,1 @@
-# HELLO WORLD
-
-![Gears](./Gears.svg)
+![](./og.png)
