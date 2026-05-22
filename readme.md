@@ -13,3 +13,9 @@ On the backend, I design scalable APIs with ![Django](https://img.shields.io/bad
 I deploy through ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white) and ![Render](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=white), and keep everything version-controlled with ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) and ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white). **Creating systems that are reliable, maintainable, and ready for growth.**
 
 **_Tools change. Systems evolve. I adapt._**
+
+---
+
+`Reach out!`
+
+[My portfolio](https://d0y.in) · [My Twitter](https://x.com/byoyindamola) · [Mail Me](mailto:oyindosumu4@gmail.com)
