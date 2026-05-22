@@ -14,8 +14,4 @@ I deploy through ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=verce
 
 **_Tools change. Systems evolve. I adapt._**
 
----
-
-`Reach out!`
-
-[View my works](https://d0y.in) · [Send a DM](https://x.com/byoyindamola) · [Send an email](mailto:oyindosumu4@gmail.com)
+`Let's discuss!` [View my Works](https://d0y.in) \ [Send a DM](https://x.com/byoyindamola) \ [Send an email](mailto:oyindosumu4@gmail.com)
